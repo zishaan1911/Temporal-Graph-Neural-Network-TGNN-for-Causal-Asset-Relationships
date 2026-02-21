@@ -1,0 +1,16 @@
+To run the notebook successfully, you will need a Python 3 environment (such as Jupyter Notebook or JupyterLab) with the following third-party packages installed:
+numpy
+pandas
+matplotlib
+seaborn
+networkx
+yfinance
+torch (PyTorch)
+scikit-learn
+statsmodels
+scipy
+tqdm
+(Note: Standard library modules like warnings and itertools are also used but come pre-installed with Python.)
+
+Installation Command:
+pip install numpy pandas matplotlib seaborn networkx yfinance torch scikit-learn statsm
